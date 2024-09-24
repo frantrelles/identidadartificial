@@ -223,7 +223,8 @@ form label input[type="checkbox"] {
 /* Imagen de la ubicación */
 .ubicacion-img {
     max-width: 500px; 
-    width: 70%; 
+    width: 120%; 
+    height: fit-content ;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
